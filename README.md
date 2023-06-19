@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">Software Engineer from Russia</h3>
 
-[CV.pdf](https://github.com/VladislavKoshkarev/VladislavKoshkarev/files/11786477/CV.pdf)
+<img width="528" alt="Снимок экрана 2023-06-19 в 12 19 54" src="https://github.com/VladislavKoshkarev/VladislavKoshkarev/assets/119058463/a2ca21e3-3c32-4366-86ab-ad1e56d247b4">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladislavkoshkarev)](https://github.com/ryo-ma/github-profile-trophy)
 
