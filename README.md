@@ -1,4 +1,7 @@
-### Hi 👋, I'm Vladislav
+<h1 align="center">Hi 👋, I'm Vladislav</h1>
+<h3 align="center">Software Engineer from Russia</h3>
+
+[CV.pdf](https://github.com/VladislavKoshkarev/VladislavKoshkarev/files/11786477/CV.pdf)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladislavkoshkarev)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,6 +25,7 @@
 
 
 <!--
+### Hi 👋, I'm Vladislav
 **VladislavKoshkarev/VladislavKoshkarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
