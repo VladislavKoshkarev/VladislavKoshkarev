@@ -3,6 +3,12 @@
 
 ![CV](https://github.com/VladislavKoshkarev/VladislavKoshkarev/assets/119058463/19049c3b-35b9-438a-9f21-546119cd172a)
 
+<h4>Projects:</h4>
+  
+  - [Minesweeper](https://rolling-scopes-school.github.io/vladislavkoshkarev-JSFE2023Q1/minesweeper/)
+
+  - [Shelter](https://rolling-scopes-school.github.io/vladislavkoshkarev-JSFE2023Q1/shelter/main.html)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladislavkoshkarev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavkoshkarev)](https://github.com/anuraghazra/github-readme-stats)
