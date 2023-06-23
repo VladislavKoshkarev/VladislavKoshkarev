@@ -9,6 +9,8 @@
 
   - [Shelter](https://rolling-scopes-school.github.io/vladislavkoshkarev-JSFE2023Q1/shelter/main.html)
 
+  - [Plants](https://rolling-scopes-school.github.io/vladislavkoshkarev-JSFEPRESCHOOL2022Q4/plants/)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladislavkoshkarev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavkoshkarev)](https://github.com/anuraghazra/github-readme-stats)
