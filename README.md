@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">Software Engineer from Russia</h3>
-
+<!--
 ![CV](https://github.com/VladislavKoshkarev/VladislavKoshkarev/assets/119058463/19049c3b-35b9-438a-9f21-546119cd172a)
 
 <h4>Projects:</h4>
@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+-->
 
 <!--
 ### Hi 👋, I'm Vladislav
